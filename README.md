@@ -55,6 +55,7 @@ I am Ida Bagus Kusuma Dewantara, a student at Ganesha University pursuing a degr
 
 <br>
 
+### 👨‍💻 Competitive Programming
   <a href="https://leetcode.com/alamin11/](https://leetcode.com/kusumadewantara3/" target="_blank"> 
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/>
   </a>
