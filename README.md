@@ -88,10 +88,10 @@ I am Ida Bagus Kusuma Dewantara, a student at Ganesha University pursuing a degr
     <img alt="C" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="	https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   </a> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="	https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white">
   </a> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
