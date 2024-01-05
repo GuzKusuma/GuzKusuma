@@ -64,7 +64,7 @@ I am Ida Bagus Kusuma Dewantara, a student at Ganesha University pursuing a degr
 <br>
 
 
-### 📋 Programming languages
+### 📋 Skills
 
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
