@@ -70,7 +70,7 @@ I am Ida Bagus Kusuma Dewantara, a student at Ganesha University pursuing a degr
 
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=flutter&logoColor=white">
   </a> 
 
 </p>
