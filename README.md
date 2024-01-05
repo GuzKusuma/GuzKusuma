@@ -71,7 +71,7 @@ I am Ida Bagus Kusuma Dewantara, a student at Ganesha University pursuing a degr
     <img alt="C" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   </a> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+    <img alt="C" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   </a> 
 
   <a href="https://www.cprogramming.com/" target="_blank"> 
